@@ -3,5 +3,8 @@ name = "debug"
 version = "0.1.0"
 authors = ["Makoto <makoto@emurasoft.com>"]
 edition = "2018"
+description = "dbg! that uses log"
+license = "MIT"
+repository = "https://github.com/MakotoE/debug"
 
 [dependencies]
