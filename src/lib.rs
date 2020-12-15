@@ -1,3 +1,4 @@
+// https://github.com/rust-lang/rust/blob/e1cce06e4ff5206daf397e1dcf91ed53653be171/library/std/src/macros.rs#L284
 #[macro_export]
 macro_rules! debug {
     () => {

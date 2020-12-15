@@ -2,7 +2,7 @@ Alternative to [`dbg!()`](https://doc.rust-lang.org/std/macro.dbg.html) but prin
 
 ```rust
 // WASM example
-use debug::debug;
+use debug_macro::debug;
 wasm_logger::init(wasm_logger::Config::default());
 debug!();
 ```
